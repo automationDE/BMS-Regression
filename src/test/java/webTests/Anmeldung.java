@@ -20,7 +20,7 @@ public class Anmeldung extends SeleniumHttpdriver {
          }
          catch(InterruptedException ie){
          }
-        //Meldung neue Version des BMSs
+        //Meldung neue Version des BMSs Systems
         //driver.findElement(By.id("c_ControlID1_ButtonOK")).click();
     }
 }
